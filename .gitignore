@@ -1,0 +1,8 @@
+# Misc Files
+.vscode/
+.settings/
+
+*.directory
+
+# Compiled Code
+bin/
